@@ -1,1 +1,1 @@
-print ("niggal")
+print ("nigga")
